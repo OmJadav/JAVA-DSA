@@ -23,7 +23,7 @@ public class SubArraysSum {
             }
         }
         System.out.println("Max sum:: "+maxSum);    
-    }
+     }
 
     //kadane's Algo
     public static void kadanes(int numbers[]){
