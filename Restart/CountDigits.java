@@ -1,5 +1,5 @@
 public class CountDigits {
-    static int countEvenlyDividingDigits(int n) {
+    static int evenlyDivides(int n) {
         int count = 0;
         int originalNumber = n;
 
@@ -15,6 +15,6 @@ public class CountDigits {
 
     public static void main(String[] args) {
         int n = 23;
-        System.out.println(countEvenlyDividingDigits(n));
+        System.out.println(evenlyDivides(n));
     }
 }
