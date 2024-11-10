@@ -1,2 +1,0 @@
-foodItem : dosa
-price of food : 100.0: 180.0
