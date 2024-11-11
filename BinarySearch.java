@@ -13,19 +13,20 @@ public class BinarySearch {
         int end = nums.length - 1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            if (nums[mid] == target) {
-                System.out.println(" Target found at Index " + mid + " :" + nums[mid]);
-                return mid;
-            }
+
             // if (nums[mid] < target) { //for ascending order shorted array
             // start = mid + 1;
-            // } else {
+            // } else if(nums[mid] > target){
             // end = mid - 1;
+            // } else {
+            // return mid;
             // }
             if (nums[mid] > target) { // for descending order shorted array
                 start = mid + 1;
-            } else {
+            } else if (nums[mid] < target) {
                 end = mid - 1;
+            } else {
+                return mid;
             }
         }
         return -1;
