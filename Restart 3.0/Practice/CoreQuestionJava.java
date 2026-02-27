@@ -6,7 +6,9 @@ public class CoreQuestionJava {
         // FindMissingNumFromArray();
         // IsPalindrome(-121);
         // PrintFactorial();
-        PrintFibonacci();
+        // PrintFibonacci();
+        isPrime(10);
+        // findLargestAndSmallestElement();
     }
 
     // Reverse a number without converting it to a String.
@@ -116,4 +118,37 @@ public class CoreQuestionJava {
         return fib(n - 1) + fib(n - 2);
     }
 
+    // check a number wether is it a prime or not
+    static void isPrime(int num) {
+        if (num <= 1) {
+            System.out.println("Not Prime");
+            return;
+        }
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                System.out.println("Not Prime");
+                return;
+            }
+        }
+        System.out.println("Prime");
+    }
+
+    // Find the Largest and Smallest Element in an Array
+
+    static void findLargestAndSmallestElement() {
+        int arr[] = { 3, 7, 2, 9, 5 };
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+
+        // brute force
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+        }
+        System.out.println("LARGEST : " + max + " and " + "SMALLEST : " + min);
+    }
 }
