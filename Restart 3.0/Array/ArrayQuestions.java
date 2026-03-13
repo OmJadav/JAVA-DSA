@@ -8,7 +8,7 @@ public class ArrayQuestions {
         int[] arr = { 5, 15, 13, 4 };
         // System.out.println(sumOfElements(arr));
         // findLargestAndSmallestElement();
-        // reverseArray(arr);
+        reverseArray(arr);
         System.out.println(secondLargeElement(arr));
     }
 

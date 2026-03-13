@@ -36,6 +36,9 @@ public class CoreQuestionJava {
 
     // Swap two numbers without using a third variable.
     static void Swap2NumberWithout3rdVar(int num1, int num2) {
+
+
+
         // method 1
         num1 = num1 + num2;
         num2 = num1 - num2;
@@ -104,7 +107,7 @@ public class CoreQuestionJava {
     static void PrintFibonacci() {
         int n = 10;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { 
             System.out.print(fib(i) + " ");
         }
     }
