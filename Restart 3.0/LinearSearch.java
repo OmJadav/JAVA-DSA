@@ -7,10 +7,10 @@ public class LinearSearch {
     static void LinearSearchBrute(int[] arr) {
         int key = 34;
 
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == key) {
+        for (int index = 0; index < arr.length; index++) {
+            if (arr[index] == key) {
 
-                System.out.println("The Key has been found on index : " + i);
+                System.out.println("The Key has been found on index : " + index);
                 break;
             }
 
