@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/number-of-good-pairs/
 
 public class LeetCode1512 {

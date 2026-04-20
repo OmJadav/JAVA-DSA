@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 public class LeetCode1832 {
 

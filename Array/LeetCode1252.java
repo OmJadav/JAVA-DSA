@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 public class LeetCode1252 {
     public static void main(String[] args) {

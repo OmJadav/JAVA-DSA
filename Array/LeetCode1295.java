@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 public class LeetCode1295 {
     public static void main(String args[]) {

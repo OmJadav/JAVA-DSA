@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/shuffle-the-array/
 public class LeetCode1470 {
 

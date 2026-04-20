@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/running-sum-of-1d-array/description/
 public class LeetCode1480 {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
 
 import java.util.ArrayList;

@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/build-array-from-permutation/
 public class LeetCode1920 {
 

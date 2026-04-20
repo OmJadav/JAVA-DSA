@@ -1,3 +1,4 @@
+package Array;
 // https://leetcode.com/problems/find-the-highest-altitude/description/
 public class LeetCode1732 {
 

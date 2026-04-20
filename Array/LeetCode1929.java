@@ -1,3 +1,5 @@
+package Array;
+
 // https://leetcode.com/problems/concatenation-of-array/
 public class LeetCode1929 {
     public static void main(String[] args) {
