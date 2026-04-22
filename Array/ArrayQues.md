@@ -33,19 +33,19 @@
 
 ### Medium
 
-10. [ ][Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-11. [ ][Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-12. [ ][Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
-13. [ ][Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-14. [ ][Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-15. [ ][Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-16. [ ][Jump Game](https://leetcode.com/problems/jump-game/)
-17. [ ][Rotate Array](https://leetcode.com/problems/rotate-array/)
-18. [ ][Sort Colors](https://leetcode.com/problems/sort-colors/)
+10. [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+11. [ ] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+12. [ ] [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+13. [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+14. [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+15. [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+16. [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+17. [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+18. [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 19. [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
 
-20. [ ][Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-21. [ ][First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-22. [ ][Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+20. [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+21. [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+22. [ ] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
