@@ -48,4 +48,4 @@
 
 20. [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 21. [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-22. [ ] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+22. [ ] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) 
