@@ -4,7 +4,7 @@
 
 ## Easy
 
-1. [ ] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+1. [x] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 2. [ ] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 3. [ ] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 4. [ ] [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
