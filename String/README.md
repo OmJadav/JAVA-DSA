@@ -5,9 +5,9 @@
 ## Easy
 
 1. [x] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
-2. [ ] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
-3. [ ] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
-4. [ ] [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+2. [x] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+3. [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+4. [x] [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 5. [ ] [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 6. [ ] [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 7. [ ] [To Lower Case](https://leetcode.com/problems/to-lower-case/)
